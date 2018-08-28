@@ -1,0 +1,18 @@
+{
+  "name": "Project_Prison",
+  "version": "1.0.0",
+  "description": "Implement SupplyChain.sol in /contracts/",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "1.12.0"
+  }
+}
